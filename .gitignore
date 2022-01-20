@@ -1,0 +1,14 @@
+***/nbproject/private/**
+***/nbproject/Makefile-*.mk
+***/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+/db4odemo/nbproject/private/
+
+
+nbactions.xml
+nb-configuration.xml
+.DS_Store
